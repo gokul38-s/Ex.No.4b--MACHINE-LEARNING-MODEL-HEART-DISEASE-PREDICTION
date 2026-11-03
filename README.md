@@ -9,7 +9,7 @@ To develop a Heart Disease Prediction model using machine learning classificatio
 •	To divide the dataset into training and testing data. 
 •	To train different classification models. 
 •	To predict whether a patient has heart disease. 
-•	To evaluate and compare the models. 
+•	To evaluate and compare the models.  
 ## INTRODUCTION
 •	Machine Learning enables computers to learn patterns from data and make predictions. 
 •	Classification is a supervised learning technique used to predict categories or classes. 
@@ -209,5 +209,3 @@ plt.show()
 
 ## CONCLUSION
 Thus, machine learning classification models were successfully applied for heart disease prediction, and their performance was compared using standard classification evaluation metrics.
-
-
